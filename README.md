@@ -6,8 +6,8 @@ This repository is the official code of the paper "VoxelFSD: voxel-based fully s
 ## Results
 ||car@Easy|car@Mod.|car@Hard||
 |---|---|---|---|---|
-|VoxelFSD-S|77.67|86.29|72.18|[download](链接：https://pan.baidu.com/s/1T9C3GCsC_2Oznkk7hiAtgg?pwd=1234)|
-|VoxelFSD-T|89.89|81.50|76.82|[download][链接：https://pan.baidu.com/s/1T9C3GCsC_2Oznkk7hiAtgg?pwd=1234]|
+|VoxelFSD-S|77.67|86.29|72.18|[download](https://pan.baidu.com/s/1T9C3GCsC_2Oznkk7hiAtgg?pwd=1234)|
+|VoxelFSD-T|89.89|81.50|76.82|[download](https://pan.baidu.com/s/14hwOdXIwMWpOy7eg6dKdOQ?pwd=1234)|
 
 <div style="text-align:left;">
     <img src="pic/time.png" alt="Image" width="800" height="600">
