@@ -35,4 +35,4 @@ python test.py --cfg_file tools/VoxelFSD-S.yaml --ckpt path/to/your/model // for
 python test.py --cfg_file tools/VoxelFSD-S.yaml --ckpt path/to/your/model // for VoxelFSD-T
 ```
 ## Citation
-out work is based on the [pcdet](https://github.com/open-mmlab/OpenPCDet?tab=readme-ov-file)
+out work is based on the [pcdet](https://github.com/open-mmlab/OpenPCDet?tab=readme-ov-file) framework.
