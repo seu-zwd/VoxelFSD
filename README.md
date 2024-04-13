@@ -9,6 +9,8 @@ This repository is the official code of the paper "VoxelFSD: voxel-based fully s
 |VoxelFSD-S|77.67|86.29|72.18|
 |VoxelFSD-T|89.89|81.50|76.82|
 
+<img src="pic/time.png" alt="Image" width="200" height="100">
+
 ![time](pic/time.png)
 
 ## Installation
@@ -20,13 +22,13 @@ python setup.py develop
 ```
 
 ## Start
-* train
+* train<br>
 first run  `cd tools` in terminal and than run
 ```python
 python train.py --cfg_file tools/VoxelFSD-S.yaml // for VoxelFSD-S
 python train.py --cfg_file tools/VoxelFSD-T.yaml // for VoxelFSD-T
 ```
-* test
+* test<br>
 ```python
 python test.py --cfg_file tools/VoxelFSD-S.yaml --ckpt path/to/your/model // for VoxelFSD-S
 python test.py --cfg_file tools/VoxelFSD-S.yaml --ckpt path/to/your/model // for VoxelFSD-T
