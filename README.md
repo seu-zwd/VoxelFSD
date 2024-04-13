@@ -34,3 +34,5 @@ python train.py --cfg_file tools/VoxelFSD-T.yaml // for VoxelFSD-T
 python test.py --cfg_file tools/VoxelFSD-S.yaml --ckpt path/to/your/model // for VoxelFSD-S
 python test.py --cfg_file tools/VoxelFSD-S.yaml --ckpt path/to/your/model // for VoxelFSD-T
 ```
+##Citation
+out work is based on the [pcdet](https://github.com/open-mmlab/OpenPCDet?tab=readme-ov-file)
