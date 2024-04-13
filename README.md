@@ -4,10 +4,10 @@
 This repository is the official code of the paper "VoxelFSD: voxel-based fully sparse detector for 3D object detection", VoxelFSD is a voxel-based fully sparse detector, the workflow is shown above, which has significant real-time performance on large-scale point clouds compared with the previous voxel-based methods. VoxelFSD-S get `77.67`map for car class on `KITTI`dataset, and VoxelFSD-T further reach `81.50`, which is competitive. 
 
 ## Results
-||car@Easy|car@Mod.|car@Hard|
-|---|---|---|---|
-|VoxelFSD-S|77.67|86.29|72.18|
-|VoxelFSD-T|89.89|81.50|76.82|
+||car@Easy|car@Mod.|car@Hard||
+|---|---|---|---|---|
+|VoxelFSD-S|77.67|86.29|72.18|[download](链接：https://pan.baidu.com/s/1T9C3GCsC_2Oznkk7hiAtgg?pwd=1234)|
+|VoxelFSD-T|89.89|81.50|76.82|[download][链接：https://pan.baidu.com/s/1T9C3GCsC_2Oznkk7hiAtgg?pwd=1234]|
 
 <div style="text-align:left;">
     <img src="pic/time.png" alt="Image" width="800" height="600">
