@@ -20,13 +20,13 @@ python setup.py develop
 ```
 
 ## Start
-*train
+* train
 first run  `cd tools` in terminal and than run
 ```python
 python train.py --cfg_file tools/VoxelFSD-S.yaml // for VoxelFSD-S
 python train.py --cfg_file tools/VoxelFSD-T.yaml // for VoxelFSD-T
 ```
-*test
+* test
 ```python
 python test.py --cfg_file tools/VoxelFSD-S.yaml --ckpt path/to/your/model // for VoxelFSD-S
 python test.py --cfg_file tools/VoxelFSD-S.yaml --ckpt path/to/your/model // for VoxelFSD-T
