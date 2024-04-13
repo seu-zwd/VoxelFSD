@@ -5,7 +5,7 @@ This repository is the official code of the paper "VoxelFSD: voxel-based fully s
 
 |||map@car||
 ||Easy|Mod.|Hard|
--------------------
+|---|---|---|---|
 |VoxelFSD-S|77.67|86.29|72.18|
 |VoxelFSD-T|89.89|81.50|76.82|
 
