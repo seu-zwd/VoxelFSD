@@ -9,8 +9,8 @@ This repository is the official code of the paper "VoxelFSD: voxel-based fully s
 |VoxelFSD-S|77.67|86.29|72.18|
 |VoxelFSD-T|89.89|81.50|76.82|
 
-<div style="text-align:center;">
-    <img src="pic/time.png" alt="Image" width="500" height="500">
+<div style="text-align:left;">
+    <img src="pic/time.png" alt="Image" width="800" height="600">
 </div>
 
 
