@@ -19,7 +19,7 @@ This repository is the official code of the paper "VoxelFSD: voxel-based fully s
 python setup.py develop
 ```
 
-##Start
+## Start
 *train
 first run  `cd tools` in terminal and than run
 ```python
