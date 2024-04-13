@@ -9,9 +9,10 @@ This repository is the official code of the paper "VoxelFSD: voxel-based fully s
 |VoxelFSD-S|77.67|86.29|72.18|
 |VoxelFSD-T|89.89|81.50|76.82|
 
-![time](pic/time.jpg)
+![time](pic/time.png)
 
 ## Installation
 * Download the KITTI dataset from [here](https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d)
 * Prepare the data as pcdet did in [data prepare](https://github.com/open-mmlab/OpenPCDet/blob/master/docs/GETTING_STARTED.md)
 * Install this pcdet library and its dependent libraries by running the following command:
+python setup.py develop
